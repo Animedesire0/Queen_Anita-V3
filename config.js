@@ -4,12 +4,12 @@ const fs = require('fs')
 const { color } = require('./lib/myfunc')
 
 //owner
-global.owner = '2347043759577'
-global.nomerowner = ["2347043759577"]
+global.owner = '918987054481'
+global.nomerowner = ["918987054481"]
 
 // Apikey 
 
-global.skizo = 'David Cyril'
+global.skizo = 'Yeager'
 global.casterix = 'DeeCeeXxx'
 //watermark 
 global.packname = '*DAVID CYRIL*'
@@ -64,20 +64,20 @@ global.available = false;
 // to show always online  
 global.autoreadmessages = false;   
 ///To always read messages
-global.chatbot = false;
+global.chatbot = true;
 global.autoreact = false;
 
-global.welcome = false;
+global.welcome = true;
 
-global.prefix = '.';
+global.prefix = '!';
 
 global.autobio = false;
 
-global.antilink = false;
+global.antilink = true;
 
-global.antilinkkick = false;
+global.antilinkkick = true;
 
-global.antilinkwarn = false;
+global.antilinkwarn = true;
 
 //_____________//
 // Don't change it
